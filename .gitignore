@@ -1,0 +1,6 @@
+config/*
+
+!config/qBittorrent/qBittorrent.conf
+
+
+.env
