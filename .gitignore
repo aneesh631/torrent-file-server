@@ -1,5 +1,6 @@
 config/*
-
+!config/qBittorrent/
+config/qBittorrent/*
 !config/qBittorrent/qBittorrent.conf
 
 
